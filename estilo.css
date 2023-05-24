@@ -138,3 +138,6 @@ a {
 .img-container {
     display: flex;
 }
+.greeting {
+    text-align: center;
+}
